@@ -23,6 +23,7 @@ namespace AccessManagement.Controllers
 
         public ActionResult Edit(int id)
         {
+            ItemProxy proxy = new ItemProxy();
             return View();
         }
 
