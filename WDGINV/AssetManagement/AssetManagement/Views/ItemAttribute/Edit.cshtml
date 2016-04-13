@@ -1,0 +1,40 @@
+﻿@model DataModel.ItemAttribute
+
+@{
+    ViewBag.Title = "Edit Item Attributes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Item Attributes</h2>
+
+<h3>Edit Item Attributes</h3>
+
+@using (Html.BeginForm())
+{
+    if (!string.IsNullOrEmpty(ViewBag.Result))
+    {
+        <p class="message-error">
+            @ViewBag.Result
+        </p>
+    }
+
+    <table width="100%">
+        <thead>
+            <tr>
+                <th width="20%">
+                    Name
+                </th>
+                <td width="30%">
+                    @Html.TextBoxFor(m => m.AttributeName)
+
+                    @Html.HiddenFor(m => m.AttributeId)
+                </td>
+                <td width="20%">
+                    <input type="submit" value="Save" />
+                </td>
+            </tr>
+        </thead>
+
+    </table>
+
+}

@@ -1,0 +1,8 @@
+E:\Project\WDGINV\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+E:\Project\WDGINV\Proxy\bin\Debug\Proxy.dll
+E:\Project\WDGINV\Proxy\bin\Debug\Proxy.pdb
+E:\Project\WDGINV\Proxy\bin\Debug\DataModel.dll
+E:\Project\WDGINV\Proxy\bin\Debug\Newtonsoft.Json.dll
+E:\Project\WDGINV\Proxy\bin\Debug\DataModel.pdb
+E:\Project\WDGINV\Proxy\obj\Debug\Proxy.dll
+E:\Project\WDGINV\Proxy\obj\Debug\Proxy.pdb

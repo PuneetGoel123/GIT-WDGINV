@@ -1,0 +1,10 @@
+E:\Project\WDGINV\DataProvider\bin\Debug\DataProvider.dll.config
+E:\Project\WDGINV\DataProvider\bin\Debug\DataProvider.dll
+E:\Project\WDGINV\DataProvider\bin\Debug\DataProvider.pdb
+E:\Project\WDGINV\DataProvider\obj\Debug\DataProvider.dll
+E:\Project\WDGINV\DataProvider\obj\Debug\DataProvider.pdb
+E:\Project\WDGINV\DataProvider\bin\Debug\EntityFramework.dll
+E:\Project\WDGINV\DataProvider\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\WDGINV\DataProvider\bin\Debug\EntityFramework.xml
+E:\Project\WDGINV\DataProvider\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\WDGINV\DataProvider\obj\Debug\DataProvider.csprojResolveAssemblyReference.cache

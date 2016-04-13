@@ -1,0 +1,9 @@
+E:\Project\WDGINV\AssetManagementDatabase\bin\Debug\AssetManagementDatabase.dacpac
+E:\Project\WDGINV\AssetManagementDatabase\bin\Debug\AssetManagementDatabase.dll
+E:\Project\WDGINV\AssetManagementDatabase\bin\Debug\AssetManagementDatabase.pdb
+E:\Project\WDGINV\AssetManagementDatabase\obj\Debug\Model.xml
+E:\Project\WDGINV\AssetManagementDatabase\obj\Debug\refactor.xml
+E:\Project\WDGINV\AssetManagementDatabase\obj\Debug\postdeploy.sql
+E:\Project\WDGINV\AssetManagementDatabase\obj\Debug\predeploy.sql
+E:\Project\WDGINV\AssetManagementDatabase\obj\Debug\AssetManagementDatabase.dll
+E:\Project\WDGINV\AssetManagementDatabase\obj\Debug\AssetManagementDatabase.pdb

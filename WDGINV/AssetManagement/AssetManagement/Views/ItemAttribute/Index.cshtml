@@ -1,0 +1,53 @@
+﻿@model List<DataModel.ItemAttribute>
+
+@{
+    ViewBag.Title = "Item Attributes";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Item Attributes</h2>
+
+@if (Model.Count > 0)
+{
+    <h3>List of Item Attributes</h3>
+
+    if (!string.IsNullOrEmpty(ViewBag.Result))
+    {
+        <p class="message-success">
+            @ViewBag.Result
+        </p>
+    }
+
+    <table width="100%">
+        <thead>
+            <tr>
+                <th width="20%">
+                    ID
+                </th>
+                <th width="30%">
+                    Name
+                </th>
+                <th width="20%">
+                    Action
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (DataModel.ItemAttribute attribute in Model)
+            {
+                <tr>
+                    <td>
+                        @attribute.AttributeId
+                    </td>
+                    <td>
+                        @attribute.AttributeName
+                    </td>
+                    <td>
+                        <a href="@Url.Action("Edit", "ItemAttribute", new { @Id = attribute.AttributeId })">Edit</a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

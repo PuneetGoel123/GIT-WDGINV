@@ -1,0 +1,6 @@
+E:\Project\WDGINV\DataModel\bin\Debug\DataModel.dll.config
+E:\Project\WDGINV\DataModel\bin\Debug\DataModel.dll
+E:\Project\WDGINV\DataModel\bin\Debug\DataModel.pdb
+E:\Project\WDGINV\DataModel\obj\Debug\DataModel.dll
+E:\Project\WDGINV\DataModel\obj\Debug\DataModel.pdb
+E:\Project\WDGINV\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
